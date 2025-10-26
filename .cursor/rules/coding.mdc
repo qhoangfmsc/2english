@@ -4,6 +4,9 @@ alwaysApply: true
 
 # Source Structure
 
+## Hệ điều hành sử dụng
+- Chỉ build app iOS và cho phép test iOS và web
+
 ## Cấu trúc project 
 - Luôn tuân thủ cấu trúc này để viết các modules tiếp theo:
 /app
